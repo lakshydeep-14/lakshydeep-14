@@ -16,5 +16,8 @@ Diving more and more in the field of Software Development.
 <!-- <a href="https://www.you" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
+## Sample Work:
+[click me](https://drive.google.com/drive/folders/1CibcbtGRCtEM7LXoA6kz9RDNoxk4HAXy?usp=sharing)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshydeep-14&show_icons=true&locale=en&layout=compact" alt="lakshydeep-14" /></p>
 
