@@ -25,7 +25,8 @@ Diving more and more in the field of Software Development.
 [GetX In Flutter](https://medium.com/me/stats/post/daec0428b276) <br />
 [Khalti Integration In Flutter](https://lakshydeep-14.medium.com/integrate-khalti-in-flutter-e67e6715146c) <br />
 [GraphQL & Rest Api In Flutter](https://medium.com/geekculture/graphql-http-request-in-flutter-efd634d63d32) <br />
-[Null Safety In Flutter](https://lakshydeep-14.medium.com/null-safety-problem-and-its-solution-in-flutter-ceb359a3137f)
+[Null Safety In Flutter](https://lakshydeep-14.medium.com/null-safety-problem-and-its-solution-in-flutter-ceb359a3137f)<br/>
+[Generate SHA1 Key In Flutter](https://lakshydeep-14.medium.com/sha-1-key-in-flutter-for-firebase-console-google-apis-269155862dde)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshydeep-14&show_icons=true&locale=en&layout=compact" alt="lakshydeep-14" /></p>
 
