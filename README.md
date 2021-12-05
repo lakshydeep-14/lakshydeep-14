@@ -1,6 +1,6 @@
 <h1 align="center">👋, Lakshydeep Vikram, here. </h1>
 <h3 align="center">Software Developer</h3>
-<h2 align="center"><b>"Be The Beast That No One Can Stop You, Not Even You."</b></h2>
+<h2 align="center"><b>"Be The Beast That No One Can Stop You, Not Even You Yourself."</b></h2>
 
 Diving more and more in the field of Software Development.
 
